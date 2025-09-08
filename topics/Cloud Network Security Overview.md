@@ -4,20 +4,20 @@
 Cloud network security involves protecting cloud-based infrastructure from unauthorized access, data breaches, and cyberattacks by managing traffic flow, access controls, and segmentation. 
 
 ## Core Concepts to Learn
-### **Virtual Networking**
+### Virtual Networking
 
 - **VPC (Virtual Private Cloud):** Isolated cloud network environment.
 - **Subnets:** Logical segmentation within a VPC.
 - **Route Tables:** Define traffic flow between subnets and external networks.
 - **NAT Gateways:** Enable outbound internet access for private subnets.
 
-### **Access Controls**
+### Access Controls
 
 - **Security Groups:** Stateful firewalls applied at the instance level.
 - **Network ACLs (NACLs):** Stateless rules applied at the subnet level.
 - **Cloud Firewalls & Microsegmentation:** Fine-grained traffic control between workloads.
 
-### **Connectivity & Trust**
+### Connectivity & Trust
 
 - **VPNs & Private Links:** Secure hybrid connectivity.
 - **Zero Trust Architecture:** Assume breach; verify every access request. 
@@ -30,14 +30,14 @@ Cloud network security involves protecting cloud-based infrastructure from unaut
 
 ## Tools & Hands-On Practice
 
-### **Platforms**
+### Platforms
 
 - **AWS VPC**
 - **Azure Virtual Networks (VNet)**
 - **Palo Alto Firewalls**
 - **Prisma Cloud**
 
-### **Practical Exercise**
+### Practical Exercise
 
 > Harden a public-facing web application:
 > 
