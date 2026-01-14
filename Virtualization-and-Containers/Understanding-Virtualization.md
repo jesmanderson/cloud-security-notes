@@ -58,7 +58,7 @@ Think of a **hotel**:
 | Start time      | Slower (minutes)        | Faster (seconds)           |
 | Isolation       | Very strong              | Strong enough for most apps|
 
-![visual between vms and containers}(https://www.eginnovations.com/blog/wp-content/uploads/2020/12/container-vms.jpg) 
+![visual between vms and containers](https://www.eginnovations.com/blog/wp-content/uploads/2020/12/container-vms.jpg) 
 ---
 
 ## 8) Why beginners should care
