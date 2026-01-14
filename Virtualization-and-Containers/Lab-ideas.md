@@ -1,4 +1,4 @@
-Virtualization Labs
+## Virtualization Labs
 	1. Install a Type-2 Hypervisor
 		○ Tools: VMware Workstation or Oracle VirtualBox
 		○ Lab: Create multiple VMs (Windows + Linux), configure networking between them.
@@ -13,9 +13,9 @@ Virtualization Labs
 	4. VMware ESXi Lab
 		○ Tools: ESXi on bare metal or nested
 		○ Lab: Deploy ESXi, create VMs, configure vSwitches.
-Skills: Enterprise virtualization basics. 
+	    ○ Skills: Enterprise virtualization basics. 
 
-Container Labs
+## Container Labs
 	1. Docker Basics
 		○ Lab: Install Docker, run hello-world, deploy NGINX container.
 		○ Skills: Images, containers, ports.
@@ -32,4 +32,4 @@ Container Labs
 	5. Networking & Volumes
 		○ Lab: Create custom Docker networks, attach volumes for persistent storage.
 		○ Skills: Container networking, data persistence.
-![Uploading image.png…]()
+
